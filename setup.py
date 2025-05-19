@@ -11,7 +11,7 @@ setup(
     ],
     python_requires='>=3.6',
     description="Educational SSH Botnet Controller",
-    author="Akshay Rane",
-    author_email="akshayrane12370@example.com",
-    url="https://github.com/AkshayRane05/ssh_botnet",
+    author="Sagar Karatagi",
+    author_email="venomxsagar@gmail.com",
+    url="https://github.com/sagar-karatagi/SSH-Botnet",
 )

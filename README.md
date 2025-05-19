@@ -31,7 +31,7 @@ The simulated DDoS functionality is heavily rate-limited and designed for educat
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/ssh-botnet-controller.git
+git clone https://github.com/sagar-karatagi/SSH-Botnet.git
 cd ssh-botnet-controller
 ```
 
